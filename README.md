@@ -1,3 +1,5 @@
+Code : 
+
 Introduction
 
 Population forecasting is a crucial task for policymakers, economists, and researchers as it helps in planning for resource allocation, infrastructure development, and economic strategies. This project aims to predict the future population of India using a dataset and statistical modeling. The implemented Python code follows a structured approach involving data preprocessing, visualization, model selection, and prediction.
@@ -16,7 +18,7 @@ For population forecasting, regression models such as Linear Regression are empl
 
 Prediction and Evaluation
 
-Once the model is trained, it is used to make predictions on future years. The accuracy of the model is assessed using performance metrics like Mean Squared Error (MSE) and R-squared values. These metrics help determine the effectiveness of the model in capturing population trends.
+Once the model is trained, it is used to make predictions on future years. The accuracy of the model is assessed using performance metrics like Mean Absolute Error (MAE). These metrics help determine the effectiveness of the model in capturing population trends.
 
 Future Population Projection
 
